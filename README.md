@@ -66,7 +66,7 @@ A web dev agency site with a modern frontend stack.
 
 - ✉️ Email: [viceculjak.m1@gmail.com](mailto:viceculjak.m1@gmail.com)
 
-- 🔗 LinkedIn: [[linkedin.com/in/vice-culjak](https://www.linkedin.com/in/vice-culjak/)
+- 🔗 LinkedIn: [linkedin.com/in/vice-culjak](https://www.linkedin.com/in/vice-culjak/)
 
 ---
 
