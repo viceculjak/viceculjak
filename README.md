@@ -60,20 +60,13 @@ A web dev agency site with a modern frontend stack.
 🛠️ Vue.js + Tailwind CSS + Vercel  
 ⚡ Performance-optimized with sleek animations.
 
----
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=w&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w&layout=compact&hide_border=true)
-
----
 
 ## 📫 Contact Me
 
-- ✉️ Email: [your@email.com](mailto:your@email.com)
-- 💬 Telegram: [@yourhandle](https://t.me/yourhandle)
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- ✉️ Email: [viceculjak.m1@gmail.com](mailto:viceculjak.m1@gmail.com)
+
+- 🔗 LinkedIn: [[linkedin.com/in/vice-culjak](https://www.linkedin.com/in/vice-culjak/)
 
 ---
 
